@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section*.2}{Introduction}{}% 1
+\BOOKMARK [0][-]{part.1}{I \040Pr\351sentation de la base de donn\351es}{}% 2
+\BOOKMARK [1][-]{section*.3}{La comp\351tition Kaggle}{part.1}% 3
+\BOOKMARK [1][-]{section*.4}{Les donn\351es}{part.1}% 4
+\BOOKMARK [1][-]{section*.5}{Premi\350re analyse des donn\351es}{part.1}% 5
+\BOOKMARK [1][-]{section*.6}{Feature Engineering}{part.1}% 6
+\BOOKMARK [0][-]{part.2}{II Description des m\351thodes d'apprentissage automatique utilis\351es}{}% 7
+\BOOKMARK [1][-]{section*.7}{L'algorithme des for\352ts al\351atoires en r\351gression}{part.2}% 8
+\BOOKMARK [2][-]{section*.8}{Arbre de classification}{section*.7}% 9
+\BOOKMARK [2][-]{section*.9}{Bagging \(bootstrap aggregating\)}{section*.7}% 10
+\BOOKMARK [2][-]{section*.10}{Les for\352ts al\351atoires}{section*.7}% 11
+\BOOKMARK [1][-]{section*.11}{Mod\350le de m\351lange et M\351lange Gaussien}{part.2}% 12
+\BOOKMARK [2][-]{section*.12}{Mod\350le de m\351lange}{section*.11}% 13
+\BOOKMARK [2][-]{section*.13}{M\351lange Gaussien}{section*.11}% 14
+\BOOKMARK [1][-]{section*.14}{Les r\351seaux de neurones}{part.2}% 15
+\BOOKMARK [2][-]{section*.15}{Introduction}{section*.14}% 16
+\BOOKMARK [2][-]{section*.16}{Vision globale du mod\350le}{section*.14}% 17
+\BOOKMARK [2][-]{section*.17}{Travail en amont}{section*.14}% 18
+\BOOKMARK [2][-]{section*.18}{Fonction d'activation}{section*.14}% 19
+\BOOKMARK [2][-]{section*.19}{Explication du mod\350le}{section*.14}% 20
+\BOOKMARK [2][-]{section*.20}{Ex\351cution et optimisation}{section*.14}% 21
+\BOOKMARK [3][-]{section*.21}{Param\350tres}{section*.20}% 22
+\BOOKMARK [3][-]{section*.22}{ Optimiseur, m\351trique et fonction de perte}{section*.20}% 23
+\BOOKMARK [3][-]{section*.23}{ Entrainement du mod\350le}{section*.20}% 24
+\BOOKMARK [2][-]{section*.24}{Analyse du mod\350le et cr\351ation de pr\351diction}{section*.14}% 25
+\BOOKMARK [3][-]{section*.25}{ Analyse du mod\350le}{section*.24}% 26
+\BOOKMARK [3][-]{section*.26}{Cr\351ation de pr\351diction}{section*.24}% 27
+\BOOKMARK [0][-]{part.3}{III R\351sultats}{}% 28
+\BOOKMARK [1][-]{section*.27}{Outils pour pr\351senter les r\351sultats}{part.3}% 29
+\BOOKMARK [1][-]{section*.28}{Validation crois\351e}{part.3}% 30
+\BOOKMARK [1][-]{section*.29}{Score}{part.3}% 31
+\BOOKMARK [1][-]{section*.30}{Kaggle}{part.3}% 32
+\BOOKMARK [0][-]{lstnumber.-27.19}{Conclusion}{}% 33
+\BOOKMARK [0][-]{lstnumber.-27.19}{Bibliographie}{}% 34
